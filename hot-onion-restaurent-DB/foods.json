@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "type": "breakfast",
+    "title": "Bagel and cream cheese",
+    "price": "$6.99",
+    "description": "A bagel and cream cheese (also known as bagel with cream cheese) is a common food pairing in American cuisine, the cuisine of New York City, and American Jewish cuisine, consisting in its basic form of a sliced bagel spread with cream cheese. The bagel with cream cheese is traditionally and most commonly served open-faced, sliced horizontally and spread with cream cheese and other toppings in the middle.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433710-cd759522-84b7-4614-97fd-fdcf4ec5bda9.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 2,
+    "type": "breakfast",
+    "title": "Breakfast Sandwich",
+    "price": "$9.99",
+    "description": "A breakfast sandwich is any sandwich filled with foods associated with the breakfast meal. Breakfast sandwiches are served at fast food restaurants and delicatessens or bought as fast, ready to heat and eat sandwiches from a store. Breakfast sandwiches are commonly made at home",
+    "img": "https://user-images.githubusercontent.com/86189450/137433705-9b8d8cfb-3080-4269-bd71-d465724dacda.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 3,
+    "type": "breakfast",
+    "title": "Baked Chiken",
+    "price": "$10.99",
+    "description": "This is the most popular of all chicken breast recipes that I’ve ever published. It’s a JUICY Oven Baked Chicken Breast sprinkled with a magic simple seasoning then baked until caramelised. It’s simple, fast and incredibly tasty! An incredibly easy chicken recipe that’s a reader favourite alongside Honey Garlic Chicken, this epic Parmesan Crusted Chicken and crispy Garlic Chicken. You’re going to love it!",
+    "img": "https://user-images.githubusercontent.com/86189450/137433708-84103b2b-1972-4d4d-b17d-f608f2a9dc4b.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 4,
+    "type": "breakfast",
+    "title": "Eggs Benedict",
+    "price": "$8.99",
+    "description": "Eggs Benedict is a common American breakfast or brunch dish, consisting of two halves of an English muffin, each topped with Canadian bacon, a poached egg, and hollandaise sauce. It was popularized in New York City. ",
+    "img": "https://user-images.githubusercontent.com/86189450/137433696-56c8ddd5-7a55-4337-9fde-6d6bb70ec979.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 5,
+    "type": "breakfast",
+    "title": "Toast Croissant Fried egg",
+    "price": "$19.99",
+    "description": "Croissant French Toast made with La Boulangerie’s Croissant Toast Bread is the stuff dreams are made of, truly. The bread is what makes this recipe (and a few others already posted here on deepfriedhoney.com) and it’s sold nationwide at Whole Foods. I’ve been told that other stores are starting to carry alternatives, but I’m good with the original – if it ain’t broke, don’t fix it! – and I usually purchase it directly from the bakery’s website to get the bulk discount.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433714-cb6ab084-f47a-4e15-b891-9bd88eddd0c5.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 6,
+    "type": "breakfast",
+    "title": "Full Breakfast Fried Egg Toast Brunch",
+    "price": "$3.99",
+    "description": "A full breakfast is a substantial cooked breakfast meal, often served in the United Kingdom and Ireland, that typically includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, mushrooms, toast, and a beverage such as coffee or tea. It appears in different regional variants and is referred to by different names depending on the area. While it is colloquially known as a \"fry up\" in most areas of Great Britain and Ireland, it is usually referred to as a full English breakfast in England (often shortened to \"full English\"),and as a \"full Irish\", \"full Scottish\", \"full Welsh\", \"full Cornish\", and \"Ulster fry\" in the Republic of Ireland, Scotland, Wales, Cornwall, and Northern Ireland, respectively",
+    "img": "https://user-images.githubusercontent.com/86189450/137433712-b48ae18f-d1ed-47b3-9768-6ef3dd275393.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 7,
+    "type": "lunch",
+    "title": "Healthy Meal Plan",
+    "price": "$23.99",
+    "description": "A healthy eating plan gives your body the nutrients it needs every day while staying within your daily calorie goal for weight loss. A healthy eating plan also will lower your risk for heart disease and other health conditions.A healthy eating plan:Emphasizes vegetables, fruits, whole grains, and fat-free or low-fat dairy products Includes lean meats, poultry, fish, beans, eggs, and nuts Limits saturated and trans fats, sodium, and added sugars Controls portion sizes",
+    "img": "https://user-images.githubusercontent.com/86189450/137434081-72779825-d33a-45c3-b01c-198193b0d422.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 8,
+    "type": "lunch",
+    "title": "Fried chicken Bento",
+    "price": "$9.99",
+    "description": "Cut chicken thigh to bite-size pieces and put in a plastic bag. Combine curry powder, sugar, grated garlic, grated ginger, soy sauce, and sake, and rub well. Marinate for 1 hour in the fridge.In a bowl, combine flour and potato starch, and mix well. Dredge marinated chicken in mixture, shaking off excess.Fry chicken until golden brown, then drain on a paper towel. Place into the bento box.Enjoy!",
+    "img": "https://user-images.githubusercontent.com/86189450/137434080-a2e98e81-f3eb-4f44-bad6-f44a8042471d.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 9,
+    "type": "lunch",
+    "title": "Tarragon-Rubbed-Salmon",
+    "price": "$6.99",
+    "description": "Meanwhile, in cup, place chopped red onion; cover with cold water and let sit 10 minutes. (This will take some of the sharpness out of the raw onion.) In medium bowl, stir together remaining salsa ingredients: chopped nectarines, chopped red pepper, finely chopped jalapeño, lime juice, chopped cilantro, and 1/4 teaspoon salt; set aside.",
+    "img": "https://user-images.githubusercontent.com/86189450/137434076-f114e1ac-4c87-47a6-82a5-c9e5347b69d3.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 10,
+    "type": "lunch",
+    "title": "Indian Lunch",
+    "price": "$8.99",
+    "description": "Collection of Indian vegetarian lunch ideas and recipes - What’s for lunch is the common everyday question in every household. Though the question looks simple, the answer is not. Everyone struggles to decide on what to cook for lunch. And if you have a family with kids and elderly adults, it will become more difficult as you have to please different age groups.",
+    "img": "https://user-images.githubusercontent.com/86189450/137434078-880e1c3a-777f-4148-8cf3-67820785acee.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 11,
+    "type": "lunch",
+    "title": "Beef Steak",
+    "price": "$15.99",
+    "description": "These easy (and crazy delicious) steak recipes will satisfy even the hungriest carnivore. From classics like Chicken Fried Steak and Philly Cheesesteaks to decadent dishes like Cajun Butter Steak, we've got it all. Still can't get enough? Try our healthy steak options and best-ever grilled steak dinners, or use up your leftovers in an amazing steak sandwich. As for the basics, ere's how to pan fry steak, how to cook steak in the oven, and everything else you need to know to make the most of steak.",
+    "img": "https://user-images.githubusercontent.com/86189450/137434071-1e6effd6-d547-4b3c-a3b1-5122a97e3f9e.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 12,
+    "type": "lunch",
+    "title": "Honey-Soy-Glazed Salmon with Peppers",
+    "price": "$7.99",
+    "description": "On large rimmed baking sheet, toss peppers with onion, 1 tablespoon sesame oil and salt. Roast in 425 degree F oven 20 minutes or until tender.In 2-quart baking dish, whisk soy sauce, honey, 1 tablespoon sesame oil, ginger and black pepper; add salmon turning to coat. Bake for 15 to 20 minutes or until cooked through.Serve salmon with pepper mixture and cooked brown rice. Garnish with fresh basil.",
+    "img": "https://user-images.githubusercontent.com/86189450/137434073-89e25565-f15d-46a5-9ce6-c77f57b48ffe.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 13,
+    "type": "dinner",
+    "title": "Salmon with Grapefruit and Lentil Salad",
+    "price": "$9.99",
+    "description": "Heat 1 tablespoon oil in a large nonstick skillet on medium. Cut salmon into 4 pieces and season with 1/4 teaspoon each salt and pepper. Cook until golden brown, about 7 minutes. Turn salmon over and continue cooking until just opaque throughout, about 2 minutes more.Meanwhile, in a large bowl, whisk together vinegar and remaining Tbsp oil. Add lentils and toss to coat then toss with cucumber, grapefruit and radishes. Fold in arugula and serve with salmon.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433822-2d920b0b-ebda-494b-b66d-5dee11c5d7f6.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 14,
+    "type": "dinner",
+    "title": "Lemon Salmon Piccata",
+    "price": "$10.99",
+    "description": "Originally from Italy, Piccata is traditionally made with Veal. This may not be ‘the real deal’ or ‘the most authentic’ Piccata recipe due to being cooked with salmon, however, the unmistakeable Piccata flavours in this Salmon version are all right there in the skillet! After all, the flavour is all that matters when sitting down to enjoy a plate full of food. Yes?",
+    "img": "https://user-images.githubusercontent.com/86189450/137433810-a86043c9-692a-4bad-9591-891976e5d742.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 15,
+    "type": "dinner",
+    "title": "Pork Tenderloin with Cheese",
+    "price": "$12.99",
+    "description": "Mix green onions, bacon, Cheddar cheese, cream cheese, spinach, mushrooms, garlic, parsley, salt, and pepper in a bowl. Spread onto one side of pounded tenderloin. Roll tenderloin around the filling in a jelly-roll fashion. Coat rolled tenderloin with bread crumbs; place on the prepared baking sheet.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433817-a66b21ac-7eee-40b5-b50d-684f45013660.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 16,
+    "type": "dinner",
+    "title": "French Fries with cheese",
+    "price": "$8.99",
+    "description": "Cheese fries or cheesy chips is a dish consisting of French fries covered in cheese, with the possible addition of various other toppings. Cheese fries are generally served as a lunch- or dinner-time meal. They can be found in fast-food locations, diners, and grills around the globe.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433813-e323e957-98bc-4d7a-9bc6-e75fa744e670.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 17,
+    "type": "dinner",
+    "title": "Garlic Butter Backed Salmon",
+    "price": "$6.99",
+    "description": "This Garlic Butter Baked Salmon recipe makes tender, flaky salmon brushed with an incredible garlic butter sauce! Baked on a sheet pan with your favorite veggies, this easy salmon recipe takes just a few minutes of prep and makes a perfect weeknight dinner idea.",
+    "img": "https://user-images.githubusercontent.com/86189450/137433811-f4ea2f7c-b559-41b3-955b-a40be7bdf967.png",
+    "comonText": "How we dream about our future"
+  },
+  {
+    "id": 18,
+    "type": "dinner",
+    "title": "Baked Chiken",
+    "price": "$9.99",
+    "description": "Tender and full flavoured, our simple and easy baked chicken breast recipe uses skinless and boneless chicken breasts baked in the oven until golden and caramelised. For extra flavour, garlic butter mixes through the cooked pan juices to serve your chicken drizzled in the best sauce!",
+    "img": "https://user-images.githubusercontent.com/86189450/137433803-3837bfee-e215-477a-863f-2b3481646a31.png",
+    "comonText": "How we dream about our future"
+  }
+]

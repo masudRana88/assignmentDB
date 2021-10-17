@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Surical procedure",
+    "discribtion": "An appendectomy is the surgical removal of the appendix, a small tube that branches off the large intestine, to treat acute appendicitis. Appendicitis is the acute inflammation of this tube due to infection.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641481-26dbbb0f-de7c-464a-99ff-4ea85728aeb1.jpg"
+  },
+  {
+    "name": "All Laser Lasik",
+    "discribtion": "Quality of vision empowers you to embrace life to its fullest. At Sharp, you'll benefit from both inpatient and outpatient procedures that help improve or correct your vision. We offer intraocular lens implants and laser vision correction through procedures performed by our expert surgeons.We are dedicated to helping you both see better and live better. Our advanced technologies set us apart, and our endoscopic cyclophotocoagulation (ECP) treatment program for glaucoma is the only one of its kind in San Diego. Whether you have cataracts, astigmatism, glaucoma, macular degeneration or just need a new pair of glasses, you can depend on us.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641482-900a8511-49c9-4da8-bbe8-cb206dcab696.jpg"
+  },
+  {
+    "name": "Cornea & Glaucoma",
+    "discribtion": "Glaucoma is a collection of diseases that if left untreated leads to loss of vision. A small percentage of cases (approximately 1 in 20 cases) are the result of a mutation in a single gene; however, most cases of the adult onset glaucoma are caused by a number genetic and environmental factors. Adult-onset glaucoma results in the progressive loss of retinal ganglion cells that send information from the eye to the brain.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641477-1a9f1b42-165d-4fa6-8676-df21a149e312.jpg"
+  },
+  {
+    "name": "Eye surgery",
+    "discribtion": "Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist. The eye is a very fragile organ, and requires extreme care before, during, and after a surgical procedure to minimise or prevent further damage. An expert eye surgeon is responsible for selecting the appropriate surgical procedure for the patient, and for taking the necessary safety precautions. Mentions of eye surgery can be found in several ancient texts dating back as early as 1800 BC, with cataract treatment starting in the fifth century BC. Today it continues to be a widely practiced type of surgery, with various techniques having been developed for treating eye problems.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641478-f98bd4a7-74e0-4b48-8ea3-2d7b086552e7.jpg"
+  },
+  {
+    "name": "Eye test care",
+    "discribtion": "Thyroid eye disease (TED) is a condition that affects people who have hyperthyroidism. When a person has hyperthyroidism, the thyroid gland located in the throat produces excess levels of thyroid hormones. These hormones are important to the normal functioning of the body’s organs and systems, but in excess amounts, they are damaging to the body.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641479-fab0e223-1a2f-440b-8441-89f78359fea2.jpg"
+  },
+  {
+    "name": "Contact lenses",
+    "discribtion": "Contact lenses, or simply contacts, are thin lenses placed directly on the surface of the eyes. Contact lenses are ocular prosthetic devices used by over 150 million people worldwide,[1] and they can be worn to correct vision or for cosmetic or therapeutic reasons. In 2010, the worldwide market for contact lenses was estimated at $6.1 billion, while the US soft lens market was estimated at $2.1 billion.",
+    "img": "https://user-images.githubusercontent.com/86189450/137641476-3877398b-de90-457d-94da-153b24dc114f.jpg"
+  }
+]

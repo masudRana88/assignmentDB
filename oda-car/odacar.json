@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "model": "Jae park 3802510",
+    "price": "$ 2500",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 45.0 L, Seating Capacity: 7 Seater, Boot Space : 300 L, Fuel Economy/ Mileage : 18 - 26.2 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141422980-3db9f242-5082-44b6-9a70-ccb89d9b2c67.jpg"
+  },
+  {
+    "id": "2",
+    "model": "Kelson downes 1149137",
+    "price": "$ 3500",
+    "discription": "Transmission : Manual & Automatic , Fuel Tank Capacity : 40.0 L, Seating Capacity: 8 Seater, Boot Space : 370 L, Fuel Economy/ Mileage : 18 - 56.2 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141422988-a156139e-e823-452a-b893-31d89df09b70.jpg"
+  },
+  {
+    "id": "3",
+    "model": "Mike 100656",
+    "price": "$ 2900",
+    "discription": "Transmission : Manual & Automatic , Fuel Tank Capacity : 40.0 L, Seating Capacity: 7 Seater, Boot Space : 300 L, Fuel Economy/ Mileage : 18 - 56.2 Km/l, Class : OUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141422996-61a56453-a736-4e23-95d9-3b9ef18315d2.jpg"
+  },
+  {
+    "id": "4",
+    "model": "Mike 116675",
+    "price": "$ 2400",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 39.0 L, Seating Capacity: 7 Seater, Boot Space : 400 L, Fuel Economy/ Mileage : 18 - 30.9 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141422999-b98a2554-ab0e-4596-9386-5876ff1ce736.jpg"
+  },
+  {
+    "id": "5",
+    "model": "Mike 170811",
+    "price": "$ 4000",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 45.0 L, Seating Capacity: 7 Seater, Boot Space : 300 L, Fuel Economy/ Mileage : 18 - 26.2 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423010-cab267e5-ede3-42df-8842-882316304869.jpg"
+  },
+  {
+    "id": "6",
+    "model": "Mike 244206",
+    "price": "$ 1500",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 25.0 L, Seating Capacity: 5 Seater, Boot Space : 150 L, Fuel Economy/ Mileage : 18 - 25.3 Km/l, Class : MYV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423020-91167661-c12e-4a84-afe6-f3a1f06ff0f8.jpg"
+  },
+  {
+    "id": "7",
+    "model": "Mike 810357",
+    "price": "$ 3700",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 35.0 L, Seating Capacity: 8 Seater, Boot Space : 380 L, Fuel Economy/ Mileage : 18 - 72 Km/l, Class : MOV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423031-a11b0f94-78dc-42b7-b2f2-0349e33bb4f4.jpg"
+  },
+  {
+    "id": "8",
+    "model": "Mike 977003",
+    "price": "$ 4000",
+    "discription": "Transmission : Manual ? Automatic , Fuel Tank Capacity : 48.0 L, Seating Capacity: 9 Seater, Boot Space : 370 L, Fuel Economy/ Mileage : 18 - 35.2 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423042-94f61a6d-c89f-4ac8-ba65-02b6637b3362.jpg"
+  },
+  {
+    "id": "9",
+    "model": "Oda uso 38637",
+    "price": "$ 4070",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 30.0 L, Seating Capacity: 9 Seater, Boot Space : 310 L, Fuel Economy/ Mileage : 18 - 46.2 Km/l, Class : YUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423063-4ac52bc3-7e60-4c1a-8c3f-a69388648ec3.jpg"
+  },
+  {
+    "id": "10",
+    "model": "Oda uso 358070",
+    "price": "$ 1460",
+    "discription": "Transmission : Manual, Automatic , Fuel Tank Capacity : 47.0 L, Seating Capacity: 8 Seater, Boot Space : 360 L, Fuel Economy/ Mileage : 18 - 26.2 Km/l, Class : MUV",
+    "img": "https://user-images.githubusercontent.com/86189450/141423071-a9e139cc-d574-4344-b401-b4f942bfbfc4.jpg"
+  }
+]
